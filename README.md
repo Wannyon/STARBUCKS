@@ -58,7 +58,7 @@ src/ <br/>
 ├── routes/                # 라우팅<br/>
 │   └── index.tsx<br/>
 ├── styles/                # 전역 스타일 및 theme<br/>
-│   ├── globalStyles.ts<br/>
+│   ├── global.scss<br/>
 │   └── theme.ts<br/>
 ├── utils/                 # 헬퍼 함수 및 유틸리티<br/>
 ├── App.tsx<br/>

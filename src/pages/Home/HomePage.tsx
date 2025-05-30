@@ -1,1 +1,5 @@
-// 메인 페이지
+const HomePage = () => {
+  return (<div></div>);
+}
+
+export default HomePage;

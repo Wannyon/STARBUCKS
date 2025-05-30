@@ -2,6 +2,6 @@ const theme = {
   colors: {},
   fontsize: {},
   spacing: {},
-}
+};
 
-export default theme
+export default theme;
